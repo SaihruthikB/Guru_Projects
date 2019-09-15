@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="selenium.Guru_Projects.TestNG1"/>
+      <class name="selenium.Guru_Projects.TestNG"/>
+      <class name="selenium.Guru_Projects.Popups"/>
+      <class name="selenium.Guru_Projects.Titlke"/>
+      <class name="selenium.Guru_Projects.AppTest"/>
+      <class name="selenium.Guru_Projects.FileUpload"/>
+      <class name="selenium.Guru_Projects.WriteData_ToExcel"/>
+      <class name="selenium.Guru_Projects.WriteData_Excel"/>
+      <class name="selenium.Guru_Projects.Customer_Creation"/>
+      <class name="selenium.Guru_Projects.Verification_Image"/>
+      <class name="selenium.Guru_Projects.MouseClick_KeyBoardEvents"/>
+      <class name="selenium.Guru_Projects.Verify_Screenshot"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
